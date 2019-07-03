@@ -1,0 +1,14 @@
+C:\Users\gulcan\Apps\Git\article-app\bin\Debug\netcoreapp2.2\article-app.deps.json
+C:\Users\gulcan\Apps\Git\article-app\bin\Debug\netcoreapp2.2\article-app.runtimeconfig.json
+C:\Users\gulcan\Apps\Git\article-app\bin\Debug\netcoreapp2.2\article-app.runtimeconfig.dev.json
+c:\Users\gulcan\Apps\Git\article-app\bin\Debug\netcoreapp2.2\article-app.dll
+c:\Users\gulcan\Apps\Git\article-app\bin\Debug\netcoreapp2.2\article-app.pdb
+c:\Users\gulcan\Apps\Git\article-app\obj\Debug\netcoreapp2.2\article-app.csprojAssemblyReference.cache
+c:\Users\gulcan\Apps\Git\article-app\obj\Debug\netcoreapp2.2\article-app.csproj.CoreCompileInputs.cache
+c:\Users\gulcan\Apps\Git\article-app\obj\Debug\netcoreapp2.2\article-app.RazorAssemblyInfo.cache
+c:\Users\gulcan\Apps\Git\article-app\obj\Debug\netcoreapp2.2\article-app.RazorAssemblyInfo.cs
+c:\Users\gulcan\Apps\Git\article-app\obj\Debug\netcoreapp2.2\article-app.AssemblyInfoInputs.cache
+c:\Users\gulcan\Apps\Git\article-app\obj\Debug\netcoreapp2.2\article-app.AssemblyInfo.cs
+c:\Users\gulcan\Apps\Git\article-app\obj\Debug\netcoreapp2.2\article-app.RazorTargetAssemblyInfo.cache
+c:\Users\gulcan\Apps\Git\article-app\obj\Debug\netcoreapp2.2\article-app.dll
+c:\Users\gulcan\Apps\Git\article-app\obj\Debug\netcoreapp2.2\article-app.pdb
